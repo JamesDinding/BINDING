@@ -13,6 +13,7 @@
 		57C9FCB224A08ED8004D70AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57C9FCB124A08ED8004D70AA /* Assets.xcassets */; };
 		57C9FCB524A08ED8004D70AA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57C9FCB424A08ED8004D70AA /* Preview Assets.xcassets */; };
 		57C9FCB824A08ED8004D70AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57C9FCB624A08ED8004D70AA /* LaunchScreen.storyboard */; };
+		57C9FCC024A0E3C5004D70AA /* nextPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57C9FCBF24A0E3C5004D70AA /* nextPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		57C9FCB424A08ED8004D70AA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		57C9FCB724A08ED8004D70AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57C9FCB924A08ED8004D70AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57C9FCBF24A0E3C5004D70AA /* nextPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nextPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				57C9FCB624A08ED8004D70AA /* LaunchScreen.storyboard */,
 				57C9FCB924A08ED8004D70AA /* Info.plist */,
 				57C9FCB324A08ED8004D70AA /* Preview Content */,
+				57C9FCBF24A0E3C5004D70AA /* nextPage.swift */,
 			);
 			path = BINDING;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				57C9FCAC24A08ED6004D70AA /* AppDelegate.swift in Sources */,
+				57C9FCC024A0E3C5004D70AA /* nextPage.swift in Sources */,
 				57C9FCAE24A08ED6004D70AA /* SceneDelegate.swift in Sources */,
 				57C9FCB024A08ED6004D70AA /* ContentView.swift in Sources */,
 			);
